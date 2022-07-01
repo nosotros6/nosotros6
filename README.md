@@ -18,7 +18,7 @@ Hello, my name is Pilar García Royo
 
 </br>
 
-## Contact & support:
+## Contact:
 
 [![Email](https://img.shields.io/badge/pilargarciaroyo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
 
