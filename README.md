@@ -14,10 +14,6 @@ Hello, my name is Pilar García Royo
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/)
 
-
-
-</br>
-
 ## Contact:
 
 [![Email](https://img.shields.io/badge/pilargarciaroyo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
