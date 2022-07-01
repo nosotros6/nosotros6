@@ -9,3 +9,8 @@ Hello, my name is Pilar García Royo
 [![Vuetify](https://img.shields.io/badge/Vuetify-999999?style=for-the-badge&logo=vuetify&logoColor=white&labelColor=101010)]()
 [![Vuetify](https://img.shields.io/badge/Bootstrap-999999?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+
+</br>
+And more...
+
+[![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://ComunidadEcampBootcamp/Pili#4894.com/discord)
