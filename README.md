@@ -4,7 +4,7 @@ Hello, my name is Pilar García Royo
 !(https://nosotros6.github.io/cv-pili/)
 
 ## Skills:
-[![JavaScript](https://img.shields.io/badge/JavaScript-999999?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-999999?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Vuetify](https://img.shields.io/badge/Vuetify-999999?style=for-the-badge&logo=vuetify&logoColor=white&labelColor=101010)]()
 [![Vuetify](https://img.shields.io/badge/Bootstrap-999999?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
