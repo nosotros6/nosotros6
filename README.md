@@ -18,6 +18,12 @@ Hello, my name is Pilar García Royo
 
 </br>
 
+## Contact & support:
+
+[![Email](https://img.shields.io/badge/pilargarciaroyo@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](pilargarciaroyo@gmail.com)
+
+</br>
+
 And more...
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]
