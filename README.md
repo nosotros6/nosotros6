@@ -12,10 +12,11 @@ Hello, my name is Pilar García Royo
 
 </br>
 
-## Find me at:
+## Find me at <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/" height="30" width="40" />:
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/)
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/" height="30" width="40" />
+
 
 </br>
 
