@@ -1,7 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-Hello, my name is Pilar García Royo
-## !(https://github.com/settings/profile) 
+## Hello, my name is Pilar García Royo 🌻
+
+### !(https://github.com/settings/profile) 
 ### Freelance Front End Trainee & Content Manager (Journalist)
 !(https://nosotros6.github.io/cv-pili/)
 
