@@ -1,5 +1,5 @@
 # !(https://github.com/settings/profile) 
-Hello, my name is Pilar García
+Hello, my name is Pilar García Royo
 ### Freelance Front End Trainee & Content Manager (Journalist)
 !(https://nosotros6.github.io/cv-pili/)
 
