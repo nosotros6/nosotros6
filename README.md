@@ -6,8 +6,8 @@
 
 <h3 align="center">🚀  I`m Front End Developer & Content Manager (Journalist)🚀</h3>
 
-<h4 align="Center" >https://github.com/settings/profile</h4>
-<h5 align="Center" >https://nosotros6.github.io/cv-pili/</h5>
+<h2 align="Center" >https://github.com/settings/profile</h2>
+<h3 align="Center" >https://nosotros6.github.io/cv-pili/</h3>
 
 ## Skills:
 
