@@ -6,7 +6,7 @@
 
 <h3 align="center">🚀  I`m Front End Developer & Content Manager (Journalist)🚀</h3>
 
-<h3 align="Center" ><a href="https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/" target="_blank" rel="noreferrer">
+<h3 align="Center" ><a href="https://www.linkedin.com/in/pilar-garcia-front-end-developer-y-content-manager-01312180/" target="_blank" rel="noreferrer">
 <v-icon>linkedin</v-icon>
 </a>
 </h3>
