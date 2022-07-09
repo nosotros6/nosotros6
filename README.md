@@ -6,7 +6,10 @@
 
 <h3 align="center">🚀  I`m Front End Developer & Content Manager (Journalist)🚀</h3>
 
-<h3 align="Center" >https://github.com/settings/profile</h3>
+<h3 align="Center" ><a href="https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/" target="_blank" rel="noreferrer">
+<v-icon>linkedin</v-icon>
+</a>
+</h3>
 <h3 align="Center" >https://nosotros6.github.io/cv-pili/</h3>
 
 ## Skills:
@@ -18,8 +21,6 @@
 
 ## Find me at <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/" height="30" width="40" />:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/)
-
 ## Contact:
 
 [![Email](https://img.shields.io/badge/pilargarciaroyo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
@@ -29,9 +30,7 @@
 And more...
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)]
 
 
 
