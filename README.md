@@ -6,8 +6,6 @@
 
 <h3 align="center">🚀  I`m Front End Developer & Content Manager (Journalist)🚀</h3>
 
-<h3 align="Center" >LINKEDIN [![Linkedin: pilargarcia](https://img.shields.io/badge/-pilargarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pilar-garcia-front-end-developer-y-content-manager-01312180/)](https://www.linkedin.com/in/pilar-garcia-front-end-developer-y-content-manager-01312180/) </h3>
-
 <h3 align="Center" >https://nosotros6.github.io/cv-pili/</h3>
 
 ## Skills:
@@ -20,6 +18,8 @@
 ## Find me at <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/pilar-garc%C3%ADa-freelance-01312180/" height="30" width="40" />:
 
 ## Contact:
+
+[![Linkedin: pilargarcia](https://img.shields.io/badge/-pilargarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pilar-garcia-front-end-developer-y-content-manager-01312180/)](https://www.linkedin.com/in/pilar-garcia-front-end-developer-y-content-manager-01312180/)
 
 [![Email](https://img.shields.io/badge/pilargarciaroyo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
 
