@@ -19,7 +19,7 @@
 
 ## Contact:
 
-[![Linkedin: pilargarcia](https://img.shields.io/badge/-pilargarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pilar-garcia-front-end-developer-y-content-manager-01312180/)](https://www.linkedin.com/in/pilar-garcia-front-end-developer-y-content-manager-01312180/)
+[![Linkedin: pilargarcia](https://img.shields.io/badge/-pilargarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pilar-garcia-royo-front-end-developer-y-content-manager-01312180/)](https://www.linkedin.com/in/pilar-garcia-royo-front-end-developer-y-content-manager-01312180/)
 
 [![Email](https://img.shields.io/badge/pilargarciaroyo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
 
