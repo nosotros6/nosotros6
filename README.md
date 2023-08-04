@@ -4,8 +4,8 @@
 
 <h2 align="center"> Hi 👋  my name is Pilar García Royo 🌻 </h2>
 
-<h3 align="center">🚀  I`m Front End Developer & Content Manager (Journalist)🚀</h3>
-
+<h3 align="center">🚀 I`m Interaction Designer 🚀</h3>
+<h5 align="center">{ IxD = Ux-Ui Designer + Front End Developer }</h5>
 <h3 align="Center" >https://nosotros6.github.io/cv-pili/</h3>
 
 ## Skills:
